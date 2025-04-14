@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ghonche Ataei <br>
 # 💫 About Me:
- Welcome to my GitHub profile! I'm a passionate developer and problem-solver with a strong interest in creating impactful projects and learning cutting-edge technologies.<br><br> How to reach me ghonche.ataee@gmail.com
+ Welcome to my GitHub profile! I'm a passionate developer and problem-solver with a strong interest in creating impactful projects and learning cutting-edge technologies.<br><br> How to reach me ghonche.ataee@gmail.com 
 
 
 ## 🌐 Socials:
