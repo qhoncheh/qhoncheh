@@ -41,17 +41,31 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver with
 
 ## 🏆 GitHub Stats
 ![Ghonche Ataei's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhoncheh&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qhoncheh&layout=compact&theme=radical)
 
 ---
 
 ## 📂 Featured Projects
+
+### 3D Book
 [![3D Book](https://img.shields.io/badge/3D_Book-React%20%26%20Three.js-blue)](https://github.com/qhoncheh/3D-book-)  
+![3D Book GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+### Movie App
 [![Movie App](https://img.shields.io/badge/Movie_App-Next.js%20%26%20React-red)](https://github.com/qhoncheh/movie-app-with-Next-js)  
+![Movie App GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+### Apple 3D Web App
 [![Apple 3D Web App](https://img.shields.io/badge/Apple_3D_Web_App-React%20%26%20Three.js-green)](https://github.com/qhoncheh/Apple-3DwebApp)  
+![Apple 3D GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+### Pizza App
 [![Pizza App](https://img.shields.io/badge/Pizza_App-React%20%26%20Framer_Motion-orange)](https://github.com/qhoncheh/Pizza-App)  
-[![Alfa](https://img.shields.io/badge/Alfa-Next.js-purple)](https://github.com/qhoncheh/alfa)
+![Pizza App GIF](https://media.giphy.com/media/26xBMu1bPTfsrZzBS/giphy.gif)
+
+### Alfa
+[![Alfa](https://img.shields.io/badge/Alfa-Next.js-purple)](https://github.com/qhoncheh/alfa)  
+![Alfa GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
