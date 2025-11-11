@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver with
 - State management with **Zustand**, **Redux**, and **Context API**  
 - Form handling with **React Hook Form**  
 - Animations and UI interactions with **Framer Motion** and **AOS**  
-- Component libraries and UI prototyping with **Storybook**, **Shadcn**, and **Figma**  
+- Component libraries and UI prototyping with **Storybook**,**AntDesign**, **DaisyUI**, **Shadcn**, and **Figma**  
 - Styling with **SCSS** and **TailwindCSS**  
 - End-to-end testing with **Cypress**  
 
