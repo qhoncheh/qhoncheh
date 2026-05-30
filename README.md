@@ -49,6 +49,6 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver with
 - Form handling with **React Hook Form**  
 - Animations and UI interactions with **Framer Motion** and **AOS**  
 - Component libraries and UI prototyping with **Storybook**,**AntDesign**, **DaisyUI**, **Shadcn**, and **Figma**  
-- Styling with **SCSS** and **TailwindCSS**  
+- Styling with **TailwindCSS**  
 - End-to-end testing with **Cypress**  
 
