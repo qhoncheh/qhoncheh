@@ -39,7 +39,6 @@ Welcome to my GitHub profile! I'm a passionate developer and problem-solver with
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2300A5A9.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![RestApi](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 ---
